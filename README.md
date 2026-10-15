@@ -1,6 +1,6 @@
 No real purpose, no grand design. Just 64K of possibilities (give or take) and a little fun along the way. Press RUN/STOP to exit reality.
 
-## NFL Week 6 High Confidence Picks using [Jev](https://typesafe.ai/)
+## 2026 NFL Week 6 High Confidence Picks using [Jev](https://typesafe.ai/)
 
 Winner: PHI<br>
 Match: CAR,PHI<br>
