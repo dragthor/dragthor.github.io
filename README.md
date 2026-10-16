@@ -1,6 +1,6 @@
 No real purpose, no grand design. Just 64K of possibilities (give or take) and a little fun along the way. Press RUN/STOP to exit reality.
 
-# Overall Win Rate: 50%
+# Overall Win Rate: 62.5%
 
 ## 2026 NFL Week 6 High Confidence Picks using [Jev](https://typesafe.ai/)
 
@@ -40,3 +40,25 @@ Probabilities: `{'away_team': 0.09, 'home_team': 0.89, 'tie': 0.02}`<br>
 Match: BAL,ATL<br>
 Confidence: 0.89<br>
 Probabilities: `{'away_team': 0.93, 'home_team': 0.07, 'tie': 0.0}`<br>
+
+## 2026 NFL Week 4 High Confidence Picks using [Jev](https://typesafe.ai/)
+
+[ ] Winner: CIN<br>
+Match: JAX,CIN<br>
+Confidence: 0.88<br>
+Probabilities: `{'away_team': 0.06, 'home_team': 0.92, 'tie': 0.02}`<br>
+
+[x] Winner: MIN<br>
+Match: MIA,MIN<br>
+Confidence: 0.92<br>
+Probabilities: `{'away_team': 0.04, 'home_team': 0.95, 'tie': 0.01}`<br>
+
+[x] Winner: SEA<br>
+Match: LAC,SEA<br>
+Confidence: 0.92<br>
+Probabilities: `{'away_team': 0.04, 'home_team': 0.95, 'tie': 0.01}`<br>
+
+[x] Winner: SF<br>
+Match: DEN,SF<br>
+Confidence: 0.92<br>
+Probabilities: `{'away_team': 0.04, 'home_team': 0.95, 'tie': 0.01}`<br>
