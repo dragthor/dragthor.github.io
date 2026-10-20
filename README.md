@@ -2,6 +2,18 @@ No real purpose, no grand design. Just 64K of possibilities (give or take) and a
 
 # Overall Win Rate: 63.6%
 
+## 2026 NFL Week 7 High Confidence Picks using [Jev](https://typesafe.ai/)
+
+[ ] Winner: DET<br>
+Match: GB,DET<br>
+Confidence: 0.92<br>
+Probabilities: `{'away_team': 0.04, 'home_team': 0.95, 'tie': 0.01}`<br>
+
+[ ] Winner: PHI<br>
+Match: DAL,PHI<br>
+Confidence: 0.92<br>
+Probabilities: `{'away_team': 0.03, 'home_team': 0.95, 'tie': 0.02}`<br>
+
 ## 2026 NFL Week 6 High Confidence Picks using [Jev](https://typesafe.ai/)
 
 [ ] Winner: PHI<br>
@@ -62,3 +74,6 @@ Probabilities: `{'away_team': 0.04, 'home_team': 0.95, 'tie': 0.01}`<br>
 Match: DEN,SF<br>
 Confidence: 0.92<br>
 Probabilities: `{'away_team': 0.04, 'home_team': 0.95, 'tie': 0.01}`<br>
+
+
+For entertainment purposes only.
