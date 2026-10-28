@@ -1,10 +1,10 @@
 No real purpose, no grand design. Just 64K of possibilities (give or take) and a little fun along the way. Press RUN/STOP to exit reality.
 
-# Overall Win Rate: 63.6%
+# Overall Win Rate: 61.5%
 
 ## 2026 NFL Week 7 High Confidence Picks using [Jev](https://typesafe.ai/)
 
-[ ] Winner: DET<br>
+[x] Winner: DET<br>
 Match: GB,DET<br>
 Confidence: 0.92<br>
 Probabilities: `{'away_team': 0.04, 'home_team': 0.95, 'tie': 0.01}`<br>
