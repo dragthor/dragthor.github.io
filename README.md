@@ -1,8 +1,25 @@
 No real purpose, no grand design. Just 64K of possibilities (give or take) and a little fun along the way. Press RUN/STOP to exit reality.
 
-# Overall Win Rate: 61.5%
+# Overall Win Rate: 61.5% using [Jev](https://typesafe.ai/)
 
-## 2026 NFL Week 7 High Confidence Picks using [Jev](https://typesafe.ai/)
+## 2026 NFL Week 8 High Confidence Picks
+
+[ ] Winner: DAL<br>
+Match: ARI,DAL<br>
+Confidence: 0.89<br>
+Probabilities: `{'away_team': 0.06, 'home_team': 0.93, 'tie': 0.01}`<br>
+
+[ ] Winner: DET<br>
+Match: MIN,DET<br>
+Confidence: 0.88<br>
+Probabilities: `{'away_team': 0.06, 'home_team': 0.92, 'tie': 0.02}`<br>
+
+[ ] Winner: PHI<br>
+Match: PHI,WAS<br>
+Confidence: 0.89<br>
+Probabilities: `{'away_team': 0.93, 'home_team': 0.06, 'tie': 0.01}`<br>
+
+## 2026 NFL Week 7 High Confidence Picks
 
 [x] Winner: DET<br>
 Match: GB,DET<br>
@@ -14,7 +31,7 @@ Match: DAL,PHI<br>
 Confidence: 0.92<br>
 Probabilities: `{'away_team': 0.03, 'home_team': 0.95, 'tie': 0.02}`<br>
 
-## 2026 NFL Week 6 High Confidence Picks using [Jev](https://typesafe.ai/)
+## 2026 NFL Week 6 High Confidence Picks
 
 [ ] Winner: PHI<br>
 Match: CAR,PHI<br>
@@ -31,7 +48,7 @@ Match: WAS,SF<br>
 Confidence: 0.97<br>
 Probabilities: `{'away_team': 0.01, 'home_team': 0.98, 'tie': 0.01}`<br>
 
-## 2026 NFL Week 5 High Confidence Picks using [Jev](https://typesafe.ai/)
+## 2026 NFL Week 5 High Confidence Picks
 
 [ ] Winner: DAL<br>
 Match: TB,DAL<br>
@@ -53,7 +70,7 @@ Match: BAL,ATL<br>
 Confidence: 0.89<br>
 Probabilities: `{'away_team': 0.93, 'home_team': 0.07, 'tie': 0.0}`<br>
 
-## 2026 NFL Week 4 High Confidence Picks using [Jev](https://typesafe.ai/)
+## 2026 NFL Week 4 High Confidence Picks
 
 [ ] Winner: CIN<br>
 Match: JAX,CIN<br>
